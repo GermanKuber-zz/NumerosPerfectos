@@ -17,5 +17,6 @@ Se aplica tomanto como parametro el numero que se uso para obtener un numero pri
 del segundo termino y se obtiene el numero perfecto.
 Luego muestran los divisores para constatar que sea un numero perfecto. 
 
-Nota se pueden evaluar cualquier cantidad de numeros pero cada numero perfecto
-a partir del 6 numero aumenta considerablemente su extencion
+Nota: se pueden evaluar cualquier cantidad de numeros pero cada numero perfecto
+a partir del 5to numero aumenta considerablemente su extencion con los procesadores actuales
+de las pc personales tardara un tiempo en ir mostrando cada divisor para el numero perfecto
