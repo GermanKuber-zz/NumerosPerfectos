@@ -1,0 +1,7 @@
+C:\Users\Alexzz\source\repos\NumerosPerfectos\NumerosPerfectos\bin\Debug\NumerosPerfectos.exe.config
+C:\Users\Alexzz\source\repos\NumerosPerfectos\NumerosPerfectos\bin\Debug\NumerosPerfectos.exe
+C:\Users\Alexzz\source\repos\NumerosPerfectos\NumerosPerfectos\bin\Debug\NumerosPerfectos.pdb
+C:\Users\Alexzz\source\repos\NumerosPerfectos\NumerosPerfectos\obj\Debug\NumerosPerfectos.csprojResolveAssemblyReference.cache
+C:\Users\Alexzz\source\repos\NumerosPerfectos\NumerosPerfectos\obj\Debug\NumerosPerfectos.csproj.CoreCompileInputs.cache
+C:\Users\Alexzz\source\repos\NumerosPerfectos\NumerosPerfectos\obj\Debug\NumerosPerfectos.exe
+C:\Users\Alexzz\source\repos\NumerosPerfectos\NumerosPerfectos\obj\Debug\NumerosPerfectos.pdb
