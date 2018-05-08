@@ -25,14 +25,14 @@ namespace NumerosPerfectos.Text
         public void NotReturnValue()
         {
             var prueba = new Formula();
-            Assert.AreEqual(0, prueba.ForEuclides(39));
+            Assert.AreEqual(0, prueba.ForEuclides(11));
         }
 
         [TestMethod]
         public void ReturnValue()
         {
             var prueba = new Formula();
-            Assert.AreEqual(6, prueba.ForEuclides(3));
+            Assert.AreEqual(28, prueba.ForEuclides(3));
         }
 
 
